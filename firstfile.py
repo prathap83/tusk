@@ -11,6 +11,9 @@ my second commit
 d =40
 e =50
 
-my third commit with new branch creation
 f= 30
 g=100
+
+my 2.5 commit before merging new branch into master branch file
+k=45
+j=89
